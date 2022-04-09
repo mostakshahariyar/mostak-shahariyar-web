@@ -28,7 +28,7 @@ const Intro = () => {
         <div className="i-name">
           {/* yahan change hy darkmode ka */}
           <span style={{ color: darkMode ? "white" : "" }}>Hy! I Am</span>
-          <span>Andrew Thomas</span>
+          <span>Mostak Shahariyar</span>
           <span>
             Frontend Developer with high level of experience in web designing
             and development, producting the Quality work
@@ -39,9 +39,15 @@ const Intro = () => {
         </Link>
         {/* social icons */}
         <div className="i-icons">
+        <a href="https://github.com/mostakshahariyar" target={'_blank'} rel="noreferrer">
           <img src={Github} alt="" />
+          </a>
+          <a href="https://www.linkedin.com/in/mostak-shahariyar-2a6819205/" target={'_blank'}rel="noreferrer">
           <img src={LinkedIn} alt="" />
+          </a>
+          <a href="https://www.instagram.com/mostakshahariyar18/" rel="noreferrer" target={'_blank'}>
           <img src={Instagram} alt="" />
+          </a>
         </div>
       </div>
       {/* right image side */}
