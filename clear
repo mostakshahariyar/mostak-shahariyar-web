@@ -1,0 +1,53 @@
+[33mcommit 658f65045b8b3efcbc19289d4b3c62211ad375c1[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Mostak-shahariyar <mostakshahariyar18@gmail.com>
+Date:   Sun Apr 10 04:50:05 2022 +0600
+
+    all done
+
+[33mcommit 4017fd2a5dce43b3a2f5c759f5949cb7a0a78716[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: ZainRk <ahmadrao925@gmail.com>
+Date:   Tue Mar 22 13:47:21 2022 +0500
+
+    responsive completed
+
+[33mcommit 3258a3cc44916978dc19d494e5d960660c926f9e[m
+Author: ZainRk <ahmadrao925@gmail.com>
+Date:   Tue Mar 22 11:19:21 2022 +0500
+
+    scrolling added
+
+[33mcommit a2f1a288d6ed795dd224868816a4173cefffc9dc[m
+Author: ZainRk <ahmadrao925@gmail.com>
+Date:   Tue Mar 22 10:09:18 2022 +0500
+
+    animations completed
+
+[33mcommit 9f5abb2c2b7ad75b09e88ec966e3326cfe0c4043[m
+Author: ZainRk <ahmadrao925@gmail.com>
+Date:   Mon Mar 21 21:03:18 2022 +0500
+
+    dark mode implemented completely
+
+[33mcommit 6b59f81cb093ba8b02f788250e71b7c804e07e18[m
+Author: ZainRk <ahmadrao925@gmail.com>
+Date:   Mon Mar 21 00:06:58 2022 +0500
+
+    without dark mode 1
+
+[33mcommit d3c1921750cd34d253cd36f0b4690601d4b2bc59[m
+Author: ZainRk <ahmadrao925@gmail.com>
+Date:   Sun Mar 20 23:42:06 2022 +0500
+
+    without implementing dark mode
+
+[33mcommit 07cfca876a2af762ae1af4bc2db12f660553b99b[m
+Author: ZainRk <ahmadrao925@gmail.com>
+Date:   Tue Mar 15 12:03:29 2022 +0500
+
+    starter
+
+[33mcommit 3f9a52bf439a3bf5fa2e3d6c8f79dfda12074bbb[m
+Author: ZainRk <ahmadrao925@gmail.com>
+Date:   Tue Mar 15 11:49:10 2022 +0500
+
+    Initialize project using Create React App
